@@ -1,0 +1,11 @@
+pandas
+numpy
+scikit-learn
+wandb
+fastapi
+uvicorn
+streamlit
+pydantic
+pyyaml
+requests
+dvc
